@@ -18,5 +18,6 @@ int main() {
     cost = distance / efficiency * fuelprice;
 
     cout << "Cost of driving is: $" << cost << endl;
-
+    
+    return 0;
 }
