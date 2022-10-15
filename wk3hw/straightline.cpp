@@ -13,5 +13,8 @@ int main() {
     distance = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 
     cout << "The distance between the points: (" << x1 << ", " << y1 << ") (" << x2 << ", " << y2 << ") is " << distance;
+    
+    
+    return 0;
 
 }
