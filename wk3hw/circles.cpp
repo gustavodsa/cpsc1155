@@ -15,6 +15,7 @@ int main() {
 
     cout << "Circle's area: " << area << "units" << endl;
     cout << "Circle's perimeter: " << perimeter << "units" << endl;
-
+    
+    return 0;
 
 }
